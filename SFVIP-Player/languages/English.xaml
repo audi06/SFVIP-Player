@@ -106,6 +106,7 @@
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Open URL or file from clipboard</sys:String>
     <sys:String x:Key="PlayerContextMenuCopyClipboard">Copy current URL to clipboard</sys:String>
     <sys:String x:Key="PlayerContextMenuPauseResume">Pause/Resume</sys:String>
+    <sys:String x:Key="PlayerContextMenuRecall">Recall</sys:String>
     <sys:String x:Key="PlayerContextMenuStop">Stop</sys:String>
     <sys:String x:Key="PlayerContextMenuToggleFullscreen">Toggle Fullscreen</sys:String>
     <sys:String x:Key="PlayerContextMenuTakeScreenshot">Take Screenshot</sys:String>

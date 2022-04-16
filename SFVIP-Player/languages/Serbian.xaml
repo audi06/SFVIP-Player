@@ -106,6 +106,7 @@
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Otvorite URL/fajl iz međuspremnika</sys:String>
     <sys:String x:Key="PlayerContextMenuCopyClipboard">Kopirajte trenutni URL u međuspremnik</sys:String>
     <sys:String x:Key="PlayerContextMenuPauseResume">Pauza/Nastavak</sys:String>
+    <sys:String x:Key="PlayerContextMenuRecall">Prethodno</sys:String>
     <sys:String x:Key="PlayerContextMenuStop">Zaustavi</sys:String>
     <sys:String x:Key="PlayerContextMenuToggleFullscreen">Uključi/isključi celi ekran</sys:String>
     <sys:String x:Key="PlayerContextMenuTakeScreenshot">Napravite snimak ekrana</sys:String>
