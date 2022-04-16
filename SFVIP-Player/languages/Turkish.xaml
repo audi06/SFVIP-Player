@@ -17,7 +17,7 @@
     <sys:String x:Key="SettingsConfigWatermark">Yapılandırma konumunu seçin.</sys:String>
     <sys:String x:Key="SettingsImageString">Arka plan resmi konumu:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Görüntü konumunu seçin.</sys:String>
-	<sys:String x:Key="SettingsImageInfo">Resmi kullan</sys:String>
+    <sys:String x:Key="SettingsImageInfo">Resmi kullan</sys:String>
     <sys:String x:Key="SettingsThemeString">Tema:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Dil Seç:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Otomatik güncelleme:</sys:String>
