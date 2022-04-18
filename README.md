@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+## SFVIP-Player  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+SuPPort: https://www.dreamosat-forum.com
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+* SFVIP-Player Settings
+![alt text](images/SFVIP-Player_Settings.png)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+* SFVIP-Player Playlist
+![alt text](images/SFVIP-Player_Playlist.png)
