@@ -77,6 +77,7 @@
     <sys:String x:Key="PlaylistColumnTitle">Name</sys:String>
     <sys:String x:Key="BackString">Back</sys:String>
     <sys:String x:Key="BackToolTip">Back.</sys:String>
+    <sys:String x:Key="EpgString">EPG</sys:String>
     <sys:String x:Key="YesterdayString">Yesterday</sys:String>
     <sys:String x:Key="TodayString">Today</sys:String>
     <sys:String x:Key="ToggleMuteToolTip">Toggle mute.</sys:String>
