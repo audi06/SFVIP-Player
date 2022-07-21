@@ -21,6 +21,7 @@
     <sys:String x:Key="SettingsThemeString">Theme:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Language:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Auto update:</sys:String>
+    <sys:String x:Key="SettingsUpdateNowString">Update Now</sys:String>
     <sys:String x:Key="SettingsLoggingString">Logging:</sys:String>
     <sys:String x:Key="SettingsPlayerString">Player</sys:String>
     <sys:String x:Key="SettingsRecordingString">Recording location:</sys:String>
@@ -132,6 +133,7 @@
     <sys:String x:Key="PlayerContextMenuViewRecording">Recording</sys:String>
     <sys:String x:Key="PlayerContextMenuViewRecordingStart">Start</sys:String>
     <sys:String x:Key="PlayerContextMenuViewRecordingStop">Stop</sys:String>
+    <sys:String x:Key="PlayerContextMenuTools">Tools</sys:String>
     <sys:String x:Key="PlayerContextMenuToolsSubDownload">Subtitles Downloader</sys:String>
     <sys:String x:Key="PlayerContextMenuKeyboardControl">Keyboard Control</sys:String>
     <sys:String x:Key="PlayerContextMenuBackToUsers">Back to List Users</sys:String>
@@ -234,8 +236,8 @@
     <sys:String x:Key="DeviceIdToolTip">Set STB Device ID (optional).</sys:String>
     <sys:String x:Key="DeviceId2String">Device ID2:</sys:String>
     <sys:String x:Key="DeviceId2ToolTip">Set STB Device ID2 (optional).</sys:String>
-    <sys:String x:Key="FirmwareString">Firmware:</sys:String>
-    <sys:String x:Key="FirmwareToolTip">Set STB Firmware: ImageDescription, ImageDate, Player Engine version... (optional)</sys:String>
+    <sys:String x:Key="FirmwareString">Device Version:</sys:String>
+    <sys:String x:Key="FirmwareToolTip">Set STB Device Version: ImageDescription, ImageDate, Player Engine version... (optional)</sys:String>
     <sys:String x:Key="STBModelString">STB Model:</sys:String>
     <sys:String x:Key="STBModelToolTip">Set STB Model (optional).</sys:String>
     <sys:String x:Key="TimeZoneString">Time Zone:</sys:String>
@@ -257,7 +259,7 @@
     <sys:String x:Key="KeyboardCopyClipboard">Copy current URL to clipboard.</sys:String>
     <sys:String x:Key="KeyboardLoadSubtitle">Load subtitle file.</sys:String>
     <sys:String x:Key="KeyboardCycleAspect">Cycle Aspect Ratio.</sys:String>
-    <sys:String x:Key="KeyboardVideoZoom">Video Zoom In/Zoom Out/Reset Zoom.</sys:String>
+    <sys:String x:Key="KeyboardVideoZoom">Video Zoom In, Out or Reset.</sys:String>
     <sys:String x:Key="KeyboardBackUserList">Back to User List.</sys:String>
     <sys:String x:Key="KeyboardAddRemoveFavorite">Add/Remove favorite.</sys:String>
     <sys:String x:Key="KeyboardUserInfo">User info.</sys:String>

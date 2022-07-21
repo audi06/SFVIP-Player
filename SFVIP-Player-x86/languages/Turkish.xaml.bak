@@ -133,7 +133,7 @@
     <sys:String x:Key="PlayerContextMenuViewRecording">Kayıt</sys:String>
     <sys:String x:Key="PlayerContextMenuViewRecordingStart">Başlat</sys:String>
     <sys:String x:Key="PlayerContextMenuViewRecordingStop">Durdur</sys:String>
-    <sys:String x:Key="PlayerContextMenuTools">Ayarlar</sys:String>
+    <sys:String x:Key="PlayerContextMenuTools">Aletler</sys:String>
     <sys:String x:Key="PlayerContextMenuToolsSubDownload">Altyazı İndir</sys:String>
     <sys:String x:Key="PlayerContextMenuKeyboardControl">Klavye Kontrolü</sys:String>
     <sys:String x:Key="PlayerContextMenuBackToUsers">Kullanıcılar Listesine Geri Dön</sys:String>
@@ -236,8 +236,8 @@
     <sys:String x:Key="DeviceIdToolTip">Özel STB Cihaz Kimliği ayarlayın (isteğe bağlı).</sys:String>
     <sys:String x:Key="DeviceId2String">Cihaz Kimliği 2:</sys:String>
     <sys:String x:Key="DeviceId2ToolTip">Özel STB Cihaz Kimliği 2 ayarlayın (isteğe bağlı).</sys:String>
-    <sys:String x:Key="FirmwareString">Cihaz Sürümü:</sys:String>
-    <sys:String x:Key="FirmwareToolTip">STB Cihaz Sürümünü Ayarlayın: ImageDescription, ImageDate, Player Engine sürümü... (isteğe bağlı)</sys:String>
+    <sys:String x:Key="FirmwareString">Bellenim:</sys:String>
+    <sys:String x:Key="FirmwareToolTip">Özel STB Donanım Yazılımını ayarlayın: Görüntü Açıklaması, Görüntü Tarihi, Player Engine sürümü... (isteğe bağlı)</sys:String>
     <sys:String x:Key="STBModelString">STB Modeli:</sys:String>
     <sys:String x:Key="STBModelToolTip">Özel STB Modelini ayarlayın (isteğe bağlı).</sys:String>
     <sys:String x:Key="TimeZoneString">Saat dilimi:</sys:String>
@@ -259,7 +259,7 @@
     <sys:String x:Key="KeyboardCopyClipboard">Geçerli URL'yi panoya kopyalayın.</sys:String>
     <sys:String x:Key="KeyboardLoadSubtitle">Altyazı dosyasını yükleyin.</sys:String>
     <sys:String x:Key="KeyboardCycleAspect">Döngü En Boy Oranı.</sys:String>
-	<sys:String x:Key="KeyboardVideoZoom">Video Yakınlaştır, Uzaklaştır veya Sıfırla.</sys:String>
+	<sys:String x:Key="KeyboardVideoZoom">Video Yakınlaştır/Uzaklaştır/Yakınlaştırmayı Sıfırla.</sys:String>
     <sys:String x:Key="KeyboardBackUserList">Kullanıcı Listesine Geri Dön.</sys:String>
     <sys:String x:Key="KeyboardAddRemoveFavorite">Favori ekle/kaldır.</sys:String>
     <sys:String x:Key="KeyboardUserInfo">Kullanıcı bilgisi.</sys:String>

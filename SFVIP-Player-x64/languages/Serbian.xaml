@@ -21,6 +21,7 @@
     <sys:String x:Key="SettingsThemeString">Teme:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Jezik:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Automatsko ažuriranje:</sys:String>
+    <sys:String x:Key="SettingsUpdateNowString">Ažuriraj sada</sys:String>
     <sys:String x:Key="SettingsLoggingString">Logovanje:</sys:String>
     <sys:String x:Key="SettingsPlayerString">Plejer</sys:String>
     <sys:String x:Key="SettingsRecordingString">Lokacija snimanja:</sys:String>
@@ -132,6 +133,7 @@
     <sys:String x:Key="PlayerContextMenuViewRecording">Snimanje</sys:String>
     <sys:String x:Key="PlayerContextMenuViewRecordingStart">Počni</sys:String>
     <sys:String x:Key="PlayerContextMenuViewRecordingStop">Zaustavi</sys:String>
+    <sys:String x:Key="PlayerContextMenuTools">Alati</sys:String>
     <sys:String x:Key="PlayerContextMenuToolsSubDownload">Downloader titlova</sys:String>
     <sys:String x:Key="PlayerContextMenuKeyboardControl">Kontrola tastature</sys:String>
     <sys:String x:Key="PlayerContextMenuBackToUsers">Povratak na listu korisnika</sys:String>
@@ -234,8 +236,8 @@
     <sys:String x:Key="DeviceIdToolTip">Postavite ID STB uređaja (opciono).</sys:String>
     <sys:String x:Key="DeviceId2String">ID2 uređaja:</sys:String>
     <sys:String x:Key="DeviceId2ToolTip">Postavite ID2 STB uređaja (opciono).</sys:String>
-    <sys:String x:Key="FirmwareString">Firmware:</sys:String>
-    <sys:String x:Key="FirmwareToolTip">Postavite STB Firmware: ImageDescription, ImageDate, Player Engine version... (opciono)</sys:String>
+    <sys:String x:Key="FirmwareString">Verzija uređaja:</sys:String>
+    <sys:String x:Key="FirmwareToolTip">STB Verzija uređaja: ImageDescription, ImageDate, Player Engine version... (opciono)</sys:String>
     <sys:String x:Key="STBModelString">STB model:</sys:String>
     <sys:String x:Key="STBModelToolTip">Postavite STB model (opciono).</sys:String>
     <sys:String x:Key="TimeZoneString">Vremenska zona:</sys:String>
