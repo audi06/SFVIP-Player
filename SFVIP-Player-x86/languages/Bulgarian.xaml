@@ -183,6 +183,7 @@
     <sys:String x:Key="ClockMenuBottomRightString">Отдолу в дясно</sys:String>
     <sys:String x:Key="ClockMenuTopLeftString">Горе в ляво</sys:String>
     <sys:String x:Key="ClockMenuBottomLeftString">Отдолу в ляво</sys:String>
+    <sys:String x:Key="ClockMenuExitString">Изход</sys:String>
     <sys:String x:Key="RecordingString">Отложен запис</sys:String>
     <sys:String x:Key="RecordingHeaderString">Изберете време</sys:String>
     <sys:String x:Key="RecordingStartTimeString">Време за стартиране:</sys:String>

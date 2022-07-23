@@ -183,6 +183,7 @@
     <sys:String x:Key="ClockMenuBottomRightString">Dole desno</sys:String>
     <sys:String x:Key="ClockMenuTopLeftString">Na vrhu levo</sys:String>
     <sys:String x:Key="ClockMenuBottomLeftString">Dole levo</sys:String>
+    <sys:String x:Key="ClockMenuExitString">Izlaz</sys:String>
     <sys:String x:Key="RecordingString">Raspored snimanja</sys:String>
     <sys:String x:Key="RecordingHeaderString">Odaberite Vreme</sys:String>
     <sys:String x:Key="RecordingStartTimeString">Vreme početka:</sys:String>

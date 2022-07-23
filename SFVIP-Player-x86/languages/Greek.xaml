@@ -183,6 +183,7 @@
     <sys:String x:Key="ClockMenuBottomRightString">Κάτω δεξιά</sys:String>
     <sys:String x:Key="ClockMenuTopLeftString">Επάνω αριστερά</sys:String>
     <sys:String x:Key="ClockMenuBottomLeftString">Κάτω αριστερά</sys:String>
+    <sys:String x:Key="ClockMenuExitString">Εξοδος</sys:String>
     <sys:String x:Key="RecordingString">Προγραμματισμός εγγραφής</sys:String>
     <sys:String x:Key="RecordingHeaderString">Επιλέξτε ώρα</sys:String>
     <sys:String x:Key="RecordingStartTimeString">Ώρα έναρξης:</sys:String>

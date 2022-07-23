@@ -183,6 +183,7 @@
     <sys:String x:Key="ClockMenuBottomRightString">В нижнем правом углу</sys:String>
     <sys:String x:Key="ClockMenuTopLeftString">В верхнем левом углу</sys:String>
     <sys:String x:Key="ClockMenuBottomLeftString">В Нижнем левом углу</sys:String>
+    <sys:String x:Key="ClockMenuExitString">Выход</sys:String>
     <sys:String x:Key="RecordingString">Запись по расписанию</sys:String>
     <sys:String x:Key="RecordingHeaderString">Выбрать время</sys:String>
     <sys:String x:Key="RecordingStartTimeString">Начало записи:</sys:String>
