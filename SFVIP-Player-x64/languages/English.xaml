@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Background image location:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Choose the image location.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Use image</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">Database:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Backup</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Restore</sys:String>
     <sys:String x:Key="SettingsThemeString">Theme:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Language:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Auto update:</sys:String>

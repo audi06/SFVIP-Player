@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Speicherort des Hintergrundbilds:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Wählen Sie den Bildspeicherort.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Bild verwenden</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">Datenbank:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Sicherung</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Wiederherstellen</sys:String>
     <sys:String x:Key="SettingsThemeString">Thema Farbe:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Sprache:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Auto Update:</sys:String>

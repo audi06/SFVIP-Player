@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Lokacija zaslonske slike:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Izberite lokacijo slike.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Uporabi sliko</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">Baza podatkov:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Rezerva</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Obnovi</sys:String>
     <sys:String x:Key="SettingsThemeString">Teme:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Jezik:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Samodejno posodabljanje:</sys:String>

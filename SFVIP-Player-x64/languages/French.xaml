@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Dossier de l'image de fond:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Choisir le dossier de l'image de fond.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Utiliser l'image</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">Base de données:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Sauvegarde</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Restaurer</sys:String>
     <sys:String x:Key="SettingsThemeString">Thème:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Langue:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Mise à jour Auto:</sys:String>

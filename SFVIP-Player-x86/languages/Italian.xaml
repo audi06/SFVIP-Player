@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Percorso immagine di sfondo:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Scegli il percorso dell'immagine.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Usa Immagine</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">Banca dati:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Backup</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Ristabilire</sys:String>
     <sys:String x:Key="SettingsThemeString">Tema:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Lingua:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Aggiornamento automatico:</sys:String>

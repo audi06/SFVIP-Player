@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Местоположение на снимката за фон:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Изберете местоположение на снимката за фон.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Използвай снимката</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">База данни:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Архивиране</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Възстанови</sys:String>
     <sys:String x:Key="SettingsThemeString">Тема:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Език:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Автоматично актуализиране:</sys:String>

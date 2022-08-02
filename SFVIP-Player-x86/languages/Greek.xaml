@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Θέση εικόνας φόντου:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Επιλογή της θέσης εικόνας.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Χρήση εικόνας</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">Βάση δεδομένων:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Αντιγράφων ασφαλείας</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Επαναφέρω</sys:String>
     <sys:String x:Key="SettingsThemeString">Θέμα:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Γλώσσα:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Αυτόματη ενημέρωση:</sys:String>

@@ -18,6 +18,9 @@
     <sys:String x:Key="SettingsImageString">Lokalizacja obrazu tła:</sys:String>
     <sys:String x:Key="SettingsImageWatermark">Wybierz lokalizację obrazu.</sys:String>
     <sys:String x:Key="SettingsImageInfo">Uzyj obrazu</sys:String>
+    <sys:String x:Key="SettingsDatabaseString">Baza danych:</sys:String>
+    <sys:String x:Key="SettingsBackupString">Utworzyć kopię zapasową</sys:String>
+    <sys:String x:Key="SettingsRestoreString">Przywrócić</sys:String>
     <sys:String x:Key="SettingsThemeString">Motyw:</sys:String>
     <sys:String x:Key="SettingsLanguageString">Język:</sys:String>
     <sys:String x:Key="SettingsAutoUpdateString">Automatyczna aktualizacja:</sys:String>
