@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Napaka pri branju: ni najdeno.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Na žalost, ta M3U seznam predvajanja ne obstaja.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">To bo izbrisalo uporabnika iz seznama.&#x0D;&#x0A;Želite izbrisati?</sys:String>
+    <sys:String x:Key="TotalChannelsString">Skupaj kanalov:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Odpri</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Odpri datoteko...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Odprite URL/datoteko iz predpomnilnika</sys:String>

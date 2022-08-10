@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Error de carga: No encontrado.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Este archivo de lista de reproducción M3U no existe.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">Eliminar a Usuario de la lista.&#x0D;&#x0A;¿Quieres borrar?</sys:String>
+    <sys:String x:Key="TotalChannelsString">Canales totales:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Abrir</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Abrir archivo...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Abrir URL o archivo desde el portapapeles</sys:String>

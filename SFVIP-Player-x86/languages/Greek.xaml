@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Σφάλμα φόρτωσης: Δεν βρέθηκε.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Λυπούμαστε, αυτό το αρχείο λίστας αναπαραγωγής M3U δεν υπάρχει.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">Αυτό θα διαγράψει τον χρήστη από τη λίστα.&#x0D;&#x0A;Θέλετε να διαγράφη;</sys:String>
+    <sys:String x:Key="TotalChannelsString">Σύνολο καναλιών:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Άνοιγμα</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Άνοιγμα αρχείου...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Άνοιγμα URL ή αρχείου από το πρόχειρο</sys:String>

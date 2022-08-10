@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Loading Error: Not Found.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Sorry, this M3U playlist file doesn't exist.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">This will delete User from the list.&#x0D;&#x0A;Do you want to delete?</sys:String>
+    <sys:String x:Key="TotalChannelsString">Total Channels:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Open</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Open file...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Open URL or file from clipboard</sys:String>

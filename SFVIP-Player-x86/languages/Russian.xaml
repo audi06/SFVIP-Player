@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Ошибка загрузки: не найдено.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Этот плейлист M3U не существует.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">Удалить провайдера из списка?&#x0D;&#x0A;Вы хотите удалить?</sys:String>
+    <sys:String x:Key="TotalChannelsString">Всего каналов:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Открыть</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Открыть файл...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Открыть URL или файл из буфера обмена</sys:String>

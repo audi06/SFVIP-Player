@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Greška pri učitavanju: nije pronađeno.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Žao nam je, ova M3U plejlista ne postoji.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">Ovo će izbrisati korisnika sa liste.&#x0D;&#x0A;Želite li izbrisati?</sys:String>
+    <sys:String x:Key="TotalChannelsString">Ukupno kanala:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Otvori</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Otvori fajl...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Otvorite URL/fajl iz međuspremnika</sys:String>

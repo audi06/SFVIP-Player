@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Грешка в зареждането: Не е намерено.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Този M3U плейлист не съществува.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">Това ще изтрие потребителя от списъка.&#x0D;&#x0A;Искате ли да изтриете?</sys:String>
+    <sys:String x:Key="TotalChannelsString">Общо канали:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Отвори</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Отваряне на файл...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">Отвори интернет адрес или файл от клип борд</sys:String>

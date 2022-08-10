@@ -106,6 +106,7 @@
     <sys:String x:Key="LoadingErrorMessage">Yükleme Hatası: Bulunamadı.</sys:String>
     <sys:String x:Key="M3UPlaylistErrorMessage">Maalesef bu M3U çalma listesi dosyası mevcut değil.</sys:String>
     <sys:String x:Key="DeleteUserMessage" xml:space="preserve">Bu, Kullanıcıyı listeden siler.&#x0D;&#x0A;Silmek istiyor musunuz?</sys:String>
+    <sys:String x:Key="TotalChannelsString">Toplam Kanallar:</sys:String>
     <sys:String x:Key="PlayerContextMenuOpen">Aç</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenFile">Açık dosya...</sys:String>
     <sys:String x:Key="PlayerContextMenuOpenClipboard">URL'yi veya dosyayı panodan aç</sys:String>
