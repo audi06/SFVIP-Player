@@ -48,6 +48,8 @@
     <sys:String x:Key="SettingsOsdString">OSD:</sys:String>
     <sys:String x:Key="SettingsOsdInfo">Abilita o disabilita l'OSD (On-Screen Display).</sys:String>
     <sys:String x:Key="SettingsSelectFolderInfo">Si prega di selezionare la cartella.</sys:String>
+    <sys:String x:Key="SettingsParentalControlString">Controllo dei genitori</sys:String>
+    <sys:String x:Key="SettingsParentalControlInfo">Attiva/Disattiva Controllo genitori.</sys:String>
     <sys:String x:Key="AboutString">Chi Siamo</sys:String>
     <sys:String x:Key="UsersCountToolTip">Gli utenti contano</sys:String>
     <sys:String x:Key="SearchBarToolTip">Barra di ricerca (Mostra/Nascondi).</sys:String>

@@ -48,6 +48,8 @@
     <sys:String x:Key="SettingsOsdString">Affichage superposé:</sys:String>
     <sys:String x:Key="SettingsOsdInfo">Activer ou désactiver l'affichage superposé (OSD)</sys:String>
     <sys:String x:Key="SettingsSelectFolderInfo">Veuillez choisir un dossier</sys:String>
+    <sys:String x:Key="SettingsParentalControlString">Contrôle parental</sys:String>
+    <sys:String x:Key="SettingsParentalControlInfo">Activer/désactiver les contrôles parentaux.</sys:String>
     <sys:String x:Key="AboutString">A propos...</sys:String>
     <sys:String x:Key="UsersCountToolTip">Nombre d'utilisateurs</sys:String>
     <sys:String x:Key="SearchBarToolTip">Barre de recherche (Afficher/Cacher)</sys:String>

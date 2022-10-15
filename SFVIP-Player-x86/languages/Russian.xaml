@@ -48,6 +48,8 @@
     <sys:String x:Key="SettingsOsdString">Экранное меню (OSD)(:</sys:String>
     <sys:String x:Key="SettingsOsdInfo">Включение и выключение OSD (On-Screen Display).</sys:String>
     <sys:String x:Key="SettingsSelectFolderInfo">Выбор папки.</sys:String>
+    <sys:String x:Key="SettingsParentalControlString">Родительский контроль</sys:String>
+    <sys:String x:Key="SettingsParentalControlInfo">Включить/выключить родительский контроль.</sys:String>
     <sys:String x:Key="AboutString">О плеере</sys:String>
     <sys:String x:Key="UsersCountToolTip">Количество провайдеров</sys:String>
     <sys:String x:Key="SearchBarToolTip">Панель поиска (показать/скрыть).</sys:String>

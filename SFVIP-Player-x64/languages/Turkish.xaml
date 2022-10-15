@@ -48,6 +48,8 @@
     <sys:String x:Key="SettingsOsdString">OSD:</sys:String>
     <sys:String x:Key="SettingsOsdInfo">OSD'yi (Ekran Görüntüsü) etkinleştirin veya devre dışı bırakın.</sys:String>
     <sys:String x:Key="SettingsSelectFolderInfo">Lütfen klasörü seçin.</sys:String>
+    <sys:String x:Key="SettingsParentalControlString">Ebeveyn Kontrolü</sys:String>
+    <sys:String x:Key="SettingsParentalControlInfo">Ebeveyn denetimlerini Aç/Kapat.</sys:String>
     <sys:String x:Key="AboutString">Hakkında</sys:String>
     <sys:String x:Key="UsersCountToolTip">Kullanıcı Sayısı</sys:String>
     <sys:String x:Key="SearchBarToolTip">Arama Çubuğu (Göster/Gizle).</sys:String>

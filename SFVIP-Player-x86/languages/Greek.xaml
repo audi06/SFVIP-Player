@@ -48,6 +48,8 @@
     <sys:String x:Key="SettingsOsdString">OSD:</sys:String>
     <sys:String x:Key="SettingsOsdInfo">Ενεργοποίηση ή απενεργοποίηση OSD (εμφάνιση στην οθόνη).</sys:String>
     <sys:String x:Key="SettingsSelectFolderInfo">Παρακαλώ επιλέξτε φάκελο.</sys:String>
+    <sys:String x:Key="SettingsParentalControlString">Γονικός έλεγχος</sys:String>
+    <sys:String x:Key="SettingsParentalControlInfo">Ενεργοποιήστε/απενεργοποιήστε τους Γονικούς ελέγχους..</sys:String>
     <sys:String x:Key="AboutString">Σχετικά με</sys:String>
     <sys:String x:Key="UsersCountToolTip">Αριθμός Χρηστών</sys:String>
     <sys:String x:Key="SearchBarToolTip">Μπαρ αναζήτησης (εμφάνιση/απόκρυψη).</sys:String>

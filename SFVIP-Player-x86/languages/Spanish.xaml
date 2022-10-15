@@ -48,6 +48,8 @@
     <sys:String x:Key="SettingsOsdString">OSD:</sys:String>
     <sys:String x:Key="SettingsOsdInfo">Activar o desactivar el OSD (Visualización en pantalla).</sys:String>
     <sys:String x:Key="SettingsSelectFolderInfo">Seleccione la carpeta.</sys:String>
+    <sys:String x:Key="SettingsParentalControlString">Control parental</sys:String>
+    <sys:String x:Key="SettingsParentalControlInfo">Activar/desactivar los controles parentales.</sys:String>
     <sys:String x:Key="AboutString">Acerca de</sys:String>
     <sys:String x:Key="UsersCountToolTip">Número de usuarios</sys:String>
     <sys:String x:Key="SearchBarToolTip">Barra de búsqueda (Mostrar/Ocultar).</sys:String>
