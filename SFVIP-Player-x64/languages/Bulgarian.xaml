@@ -274,6 +274,7 @@
     <sys:String x:Key="KeyboardToggleInterlacing">Интерлисинг Включен/Изключен.</sys:String>
     <sys:String x:Key="KeyboardToggleStreamInfo">Информация за стрийма.</sys:String>
     <sys:String x:Key="KeyboardTogglePlaylist">Плей лист.</sys:String>
+    <sys:String x:Key="KeyboardSwitchEpg">Включване/изключване на TV Guide (EPG).</sys:String>
     <sys:String x:Key="KeyboardPlay">Възпроизведи.</sys:String>
     <sys:String x:Key="KeyboardPauseResume">Пауза/Продължи.</sys:String>
     <sys:String x:Key="KeyboardStop">Стоп.</sys:String>
@@ -297,4 +298,8 @@
     <sys:String x:Key="KeyboardSubtitleStep">Стпка на субтитрите напред/назад.</sys:String>
     <sys:String x:Key="KeyboardSubtitleDelay">Отклонение на субтитрите +/- 0.1 секунда.</sys:String>
     <sys:String x:Key="KeyboardSubtitleResetDelay">Отмяна отместването на субтитрите - 0 секунди.</sys:String>
+    <sys:String x:Key="KeyboardLiveTab">Раздел на живо.</sys:String>
+    <sys:String x:Key="KeyboardVodTab">Раздел ВоД.</sys:String>
+    <sys:String x:Key="KeyboardSeriesTab">Раздел Сериали.</sys:String>
+    <sys:String x:Key="KeyboardFavoriteTab">Раздел Фаворити.</sys:String>
 </ResourceDictionary>

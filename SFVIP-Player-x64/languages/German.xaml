@@ -274,6 +274,7 @@
     <sys:String x:Key="KeyboardToggleInterlacing">Zeilenentflechtung aktivieren/deaktivieren.</sys:String>
     <sys:String x:Key="KeyboardToggleStreamInfo">Stream-Info umschalten.</sys:String>
     <sys:String x:Key="KeyboardTogglePlaylist">Wiedergabeliste umschalten.</sys:String>
+    <sys:String x:Key="KeyboardSwitchEpg">TV Guide (EPG) ein-/ausschalten.</sys:String>
     <sys:String x:Key="KeyboardPlay">Wiedergabe.</sys:String>
     <sys:String x:Key="KeyboardPauseResume">Anhalten/Fortsetzen.</sys:String>
     <sys:String x:Key="KeyboardStop">Stop.</sys:String>
@@ -297,4 +298,8 @@
     <sys:String x:Key="KeyboardSubtitleStep">Schritt vorwärts/rückwärts im Untertitel.</sys:String>
     <sys:String x:Key="KeyboardSubtitleDelay">Passen Sie die Untertitelverzögerung um +/- 0,1 Sekunden an.</sys:String>
     <sys:String x:Key="KeyboardSubtitleResetDelay">Untertitelverzögerung auf 0 Sekunden zurücksetzen.</sys:String>
+    <sys:String x:Key="KeyboardLiveTab">Live registerkarte.</sys:String>
+    <sys:String x:Key="KeyboardVodTab">Vod registerkarte.</sys:String>
+    <sys:String x:Key="KeyboardSeriesTab">Series registerkarte.</sys:String>
+    <sys:String x:Key="KeyboardFavoriteTab">Favoriten registerkarte.</sys:String>
 </ResourceDictionary>

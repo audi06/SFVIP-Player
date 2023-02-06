@@ -274,6 +274,7 @@
     <sys:String x:Key="KeyboardToggleInterlacing">Attiva/disattiva l'interlacciamento.</sys:String>
     <sys:String x:Key="KeyboardToggleStreamInfo">Attiva/disattiva le informazioni.</sys:String>
     <sys:String x:Key="KeyboardTogglePlaylist">Attiva/Disattiva playlist.</sys:String>
+    <sys:String x:Key="KeyboardSwitchEpg">Attiva/disattiva la Guida TV (EPG).</sys:String>
     <sys:String x:Key="KeyboardPlay">Riproduzione.</sys:String>
     <sys:String x:Key="KeyboardPauseResume">Pausa/Riprendi.</sys:String>
     <sys:String x:Key="KeyboardStop">Ferma.</sys:String>
@@ -297,4 +298,8 @@
     <sys:String x:Key="KeyboardSubtitleStep">Fai un passo avanti/indietro del sottotitolo.</sys:String>
     <sys:String x:Key="KeyboardSubtitleDelay">Regola il ritardo dei sottotitoli di +/- 0,1 secondi.</sys:String>
     <sys:String x:Key="KeyboardSubtitleResetDelay">Reimposta il ritardo dei sottotitoli a 0 secondi.</sys:String>
+    <sys:String x:Key="KeyboardLiveTab">Scheda Diretta.</sys:String>
+    <sys:String x:Key="KeyboardVodTab">Scheda Vod.</sys:String>
+    <sys:String x:Key="KeyboardSeriesTab">Scheda Serie.</sys:String>
+    <sys:String x:Key="KeyboardFavoriteTab">Scheda Preferiti.</sys:String>
 </ResourceDictionary>

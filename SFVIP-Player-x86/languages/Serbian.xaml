@@ -274,6 +274,7 @@
     <sys:String x:Key="KeyboardToggleInterlacing">Uključi/isključi interlacing.</sys:String>
     <sys:String x:Key="KeyboardToggleStreamInfo">Uključi/isključi informacije o strimu.</sys:String>
     <sys:String x:Key="KeyboardTogglePlaylist">Uključi/isključi plejlistu.</sys:String>
+    <sys:String x:Key="KeyboardSwitchEpg">Uključi/isključi TV vodič (EPG).</sys:String>
     <sys:String x:Key="KeyboardPlay">Igraj.</sys:String>
     <sys:String x:Key="KeyboardPauseResume">Pauza/Nastavak.</sys:String>
     <sys:String x:Key="KeyboardStop">Zaustavi.</sys:String>
@@ -297,4 +298,8 @@
     <sys:String x:Key="KeyboardSubtitleStep">Korak napred/nazad prema titlu.</sys:String>
     <sys:String x:Key="KeyboardSubtitleDelay">Podesite kašnjenje titla za +/- 0,1 sekundu.</sys:String>
     <sys:String x:Key="KeyboardSubtitleResetDelay">Poništi kašnjenje titlova 0 sekundi.</sys:String>
+    <sys:String x:Key="KeyboardLiveTab">Kartica uživo.</sys:String>
+    <sys:String x:Key="KeyboardVodTab">Kartica videoteka.</sys:String>
+    <sys:String x:Key="KeyboardSeriesTab">Kartica серије.</sys:String>
+    <sys:String x:Key="KeyboardFavoriteTab">Kartica favoriti.</sys:String>
 </ResourceDictionary>

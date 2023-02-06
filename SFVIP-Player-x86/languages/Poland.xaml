@@ -274,6 +274,7 @@
     <sys:String x:Key="KeyboardToggleInterlacing">Włącz/wyłącz przeplot.</sys:String>
     <sys:String x:Key="KeyboardToggleStreamInfo">Przełącz informacje o strumieniu.</sys:String>
     <sys:String x:Key="KeyboardTogglePlaylist">Przełącz listę odtwarzania.</sys:String>
+    <sys:String x:Key="KeyboardSwitchEpg">Włączanie/wyłączanie przewodnika telewizyjnego (EPG).</sys:String>
     <sys:String x:Key="KeyboardPlay">Play.</sys:String>
     <sys:String x:Key="KeyboardPauseResume">Wstrzymaj/Wznów.</sys:String>
     <sys:String x:Key="KeyboardStop">Stop.</sys:String>
@@ -297,4 +298,8 @@
     <sys:String x:Key="KeyboardSubtitleStep">Krok do przodu/do tyłu napisów.</sys:String>
     <sys:String x:Key="KeyboardSubtitleDelay">Dostosuj opóźnienie napisów o +/- 0,1 sekundy.</sys:String>
     <sys:String x:Key="KeyboardSubtitleResetDelay">Zresetuj opóźnienie napisów 0 sekund.</sys:String>
+    <sys:String x:Key="KeyboardLiveTab">Zakładka Live.</sys:String>
+    <sys:String x:Key="KeyboardVodTab">Zakładka Vod.</sys:String>
+    <sys:String x:Key="KeyboardSeriesTab">Zakładka Serial.</sys:String>
+    <sys:String x:Key="KeyboardFavoriteTab">Zakładka Ulubione.</sys:String>
 </ResourceDictionary>

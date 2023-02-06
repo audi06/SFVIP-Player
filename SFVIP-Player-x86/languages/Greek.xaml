@@ -274,6 +274,7 @@
     <sys:String x:Key="KeyboardToggleInterlacing">Εναλλαγή Ενεργοποίηση/Απενεργοποίηση της αποδιαπλοκής.</sys:String>
     <sys:String x:Key="KeyboardToggleStreamInfo">Εναλλαγή πληροφοριών ροής.</sys:String>
     <sys:String x:Key="KeyboardTogglePlaylist">Εναλλαγή λίστας αναπαραγωγής.</sys:String>
+    <sys:String x:Key="KeyboardSwitchEpg">Οδηγός ενεργοποίησης/απενεργοποίησης τηλεόρασης (EPG).</sys:String>
     <sys:String x:Key="KeyboardPlay">Αναπαραγωγή.</sys:String>
     <sys:String x:Key="KeyboardPauseResume">Παύση/Συνέχιση.</sys:String>
     <sys:String x:Key="KeyboardStop">Διακοπή.</sys:String>
@@ -297,4 +298,8 @@
     <sys:String x:Key="KeyboardSubtitleStep">Βήμα προς τα εμπρός/πίσω στον υπότιτλο.</sys:String>
     <sys:String x:Key="KeyboardSubtitleDelay">Ρύθμιση της καθυστέρησης υποτίτλων κατά +/- 0,1 δευτερόλεπτα.</sys:String>
     <sys:String x:Key="KeyboardSubtitleResetDelay">Επαναφορά της καθυστέρησης υποτίτλων 0 δευτερόλεπτα.</sys:String>
+    <sys:String x:Key="KeyboardLiveTab">Ζωντανά καρτέλα.</sys:String>
+    <sys:String x:Key="KeyboardVodTab">Vod καρτέλα.</sys:String>
+    <sys:String x:Key="KeyboardSeriesTab">Σειρές καρτέλα.</sys:String>
+    <sys:String x:Key="KeyboardFavoriteTab">Αγαπημένα καρτέλα.</sys:String>
 </ResourceDictionary>

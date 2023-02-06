@@ -274,6 +274,7 @@
     <sys:String x:Key="KeyboardToggleInterlacing">Toggle interlacing Enable/Disable.</sys:String>
     <sys:String x:Key="KeyboardToggleStreamInfo">Toggle Stream Info.</sys:String>
     <sys:String x:Key="KeyboardTogglePlaylist">Toggle Playlist.</sys:String>
+    <sys:String x:Key="KeyboardSwitchEpg">Switch On/Off TV Guide (EPG).</sys:String>
     <sys:String x:Key="KeyboardPlay">Play.</sys:String>
     <sys:String x:Key="KeyboardPauseResume">Pause/Resume.</sys:String>
     <sys:String x:Key="KeyboardStop">Stop.</sys:String>
@@ -297,4 +298,8 @@
     <sys:String x:Key="KeyboardSubtitleStep">Step forward/backward the subtitle.</sys:String>
     <sys:String x:Key="KeyboardSubtitleDelay">Adjust subtitle delay by +/- 0.1 seconds.</sys:String>
     <sys:String x:Key="KeyboardSubtitleResetDelay">Reset subtitle delay 0 seconds.</sys:String>
+    <sys:String x:Key="KeyboardLiveTab">Live tab.</sys:String>
+    <sys:String x:Key="KeyboardVodTab">Vod tab.</sys:String>
+    <sys:String x:Key="KeyboardSeriesTab">Series tab.</sys:String>
+    <sys:String x:Key="KeyboardFavoriteTab">Favorite tab.</sys:String>
 </ResourceDictionary>
