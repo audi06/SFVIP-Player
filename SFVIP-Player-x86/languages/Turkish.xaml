@@ -78,12 +78,12 @@
     <sys:String x:Key="TabFavoritesString">Favoriler</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Favori ekle/kaldır</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Favoriyi kaldır</sys:String>
-    <sys:String x:Key="ContextMenuDelete">Sil</sys:String>
+	<sys:String x:Key="ContextMenuDelete">Sil</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Hepsini sil</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">İsim</sys:String>
     <sys:String x:Key="BackString">Geri</sys:String>
     <sys:String x:Key="BackToolTip">Geri.</sys:String>
-    <sys:String x:Key="EpgString">EPG</sys:String>
+	<sys:String x:Key="EpgString">EPG</sys:String>
     <sys:String x:Key="YesterdayString">Dün</sys:String>
     <sys:String x:Key="TodayString">Bugün</sys:String>
     <sys:String x:Key="ToggleMuteToolTip">Sesi Kapat/Aç.</sys:String>
@@ -114,7 +114,7 @@
     <sys:String x:Key="PlayerContextMenuOpenClipboard">URL'yi veya dosyayı panodan aç</sys:String>
     <sys:String x:Key="PlayerContextMenuCopyClipboard">Geçerli URL'yi panoya kopyala</sys:String>
     <sys:String x:Key="PlayerContextMenuPauseResume">Duraklat/Oynat</sys:String>
-    <sys:String x:Key="PlayerContextMenuRecall">Geri çağırma</sys:String>
+	<sys:String x:Key="PlayerContextMenuRecall">Geri çağırma</sys:String>
     <sys:String x:Key="PlayerContextMenuStop">Durdur</sys:String>
     <sys:String x:Key="PlayerContextMenuToggleFullscreen">Tam Ekrana Geç</sys:String>
     <sys:String x:Key="PlayerContextMenuTakeScreenshot">Ekran Görüntüsü Al</sys:String>
@@ -253,6 +253,8 @@
     <sys:String x:Key="ProxyString">HTTP/HTTPS Proxy:</sys:String>
     <sys:String x:Key="ProxyWatermark">http://127.0.0.1:3128 (isteğe bağlı).</sys:String>
     <sys:String x:Key="ProxyInfo">HTTP/HTTPS proxy'sinin URL'si. Bu seçenek, http:// ile başlamıyorsa sessizce yoksayılır.</sys:String>
+    <sys:String x:Key="CookieString">HTTP Cookie:</sys:String>
+    <sys:String x:Key="CookieWatermark">ad=değer; ad=değer... (isteğe bağlı).</sys:String>
     <sys:String x:Key="UserAgentString">STB User-Agent:</sys:String>
     <sys:String x:Key="UserAgentToolTip">Özel STB User-Agent ayarlayın (isteğe bağlı).</sys:String>
     <sys:String x:Key="PlayerUserAgentString">Player User-Agent:</sys:String>
@@ -266,7 +268,7 @@
     <sys:String x:Key="KeyboardCopyClipboard">Geçerli URL'yi panoya kopyalayın.</sys:String>
     <sys:String x:Key="KeyboardLoadSubtitle">Altyazı dosyasını yükleyin.</sys:String>
     <sys:String x:Key="KeyboardCycleAspect">Döngü En Boy Oranı.</sys:String>
-    <sys:String x:Key="KeyboardVideoZoom">Video Yakınlaştır/Uzaklaştır/Yakınlaştırmayı Sıfırla.</sys:String>
+	<sys:String x:Key="KeyboardVideoZoom">Video Yakınlaştır/Uzaklaştır/Yakınlaştırmayı Sıfırla.</sys:String>
     <sys:String x:Key="KeyboardBackUserList">Kullanıcı Listesine Geri Dön.</sys:String>
     <sys:String x:Key="KeyboardAddRemoveFavorite">Favori ekle/kaldır.</sys:String>
     <sys:String x:Key="KeyboardUserInfo">Kullanıcı bilgisi.</sys:String>

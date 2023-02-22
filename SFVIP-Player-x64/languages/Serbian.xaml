@@ -253,6 +253,8 @@
     <sys:String x:Key="ProxyString">HTTP/HTTPS proksi:</sys:String>
     <sys:String x:Key="ProxyWatermark">http://127.0.0.1:3128 (opciono).</sys:String>
     <sys:String x:Key="ProxyInfo">URL HTTP/HTTPS proksi. Ova opcija se zanemaruje ako ne počinje sa http://.</sys:String>
+    <sys:String x:Key="CookieString">HTTP Kolačići:</sys:String>
+    <sys:String x:Key="CookieWatermark">ime=vrednost; ime=vrednost... (opciono).</sys:String>
     <sys:String x:Key="UserAgentString">STB Korisnički agent:</sys:String>
     <sys:String x:Key="UserAgentToolTip">Postavite STB korisnički agent (opciono).</sys:String>
     <sys:String x:Key="PlayerUserAgentString">Plejer User-Agent:</sys:String>

@@ -253,6 +253,8 @@
     <sys:String x:Key="ProxyString">Proxy HTTP/HTTPS:</sys:String>
     <sys:String x:Key="ProxyWatermark">http://127.0.0.1:3128 (opciónal).</sys:String>
     <sys:String x:Key="ProxyInfo">URL del proxy HTTP/HTTPS. Esta opción se ignora silenciosamente si no comienza con http://.</sys:String>
+    <sys:String x:Key="CookieString">HTTP Cookie:</sys:String>
+    <sys:String x:Key="CookieWatermark">nombre=valor; nombre=valor... (opciónal).</sys:String>
     <sys:String x:Key="UserAgentString">STB User-Agent:</sys:String>
     <sys:String x:Key="UserAgentToolTip">Establecer User-Agent STB (opciónal).</sys:String>
     <sys:String x:Key="PlayerUserAgentString">Player User-Agent:</sys:String>
