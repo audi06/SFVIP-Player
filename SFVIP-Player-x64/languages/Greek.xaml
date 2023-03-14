@@ -253,8 +253,10 @@
     <sys:String x:Key="ProxyString">Διακομιστής μεσολάβησης HTTP/HTTPS:</sys:String>
     <sys:String x:Key="ProxyWatermark">http://127.0.0.1:3128 (προαιρετικό).</sys:String>
     <sys:String x:Key="ProxyInfo">Διεύθυνση URL του διακομιστή μεσολάβησης HTTP/HTTPS. Αυτή η επιλογή αγνοείται σιωπηλά εάν δεν ξεκινά με http://.</sys:String>
+    <sys:String x:Key="HeaderString">HTTP Header:</sys:String>
+    <sys:String x:Key="HeaderWatermark">'όνομα1:τιμή', 'όνομα2:τιμή'... (προαιρετικό).</sys:String>
     <sys:String x:Key="CookieString">HTTP Cookie:</sys:String>
-    <sys:String x:Key="CookieWatermark">όνομα=τιμή; όνομα=τιμή... (προαιρετικό).</sys:String>
+    <sys:String x:Key="CookieWatermark">όνομα1=τιμή; όνομα2=τιμή... (προαιρετικό).</sys:String>
     <sys:String x:Key="UserAgentString">STB User-Agent:</sys:String>
     <sys:String x:Key="UserAgentToolTip">Ρύθμιση STB User-Agent (προαιρετικό).</sys:String>
     <sys:String x:Key="PlayerUserAgentString">User-Agent Αναπαραγωγού:</sys:String>

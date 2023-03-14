@@ -253,8 +253,10 @@
     <sys:String x:Key="ProxyString">HTTP/HTTPS прокси:</sys:String>
     <sys:String x:Key="ProxyWatermark">http://127.0.0.1:3128 (опционално).</sys:String>
     <sys:String x:Key="ProxyInfo">URL HTTP/HTTPS прокси. Тази опция се игнорира, ако не започва с http://.</sys:String>
+    <sys:String x:Key="HeaderString">HTTP Header:</sys:String>
+    <sys:String x:Key="HeaderWatermark">'име1:стойност', 'име2:стойност'... (опционално).</sys:String>
     <sys:String x:Key="CookieString">HTTP Cookie:</sys:String>
-    <sys:String x:Key="CookieWatermark">име=стойност; име=стойност... (опционално).</sys:String>
+    <sys:String x:Key="CookieWatermark">име1=стойност; име2=стойност... (опционално).</sys:String>
     <sys:String x:Key="UserAgentString">СТБ агент:</sys:String>
     <sys:String x:Key="UserAgentToolTip">Задайте СТБ агент (опционално).</sys:String>
     <sys:String x:Key="PlayerUserAgentString">Плеър агент:</sys:String>
