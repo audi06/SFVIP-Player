@@ -78,6 +78,9 @@
     <sys:String x:Key="TabFavoritesString">Αγαπημένα</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Προσθήκη/Αφαίρεση αγαπημένου</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Αφαιρέση αγαπημένου</sys:String>
+    <sys:String x:Key="ContextMenuAllGroups">Όλες οι Ομάδες</sys:String>
+    <sys:String x:Key="ContextMenuHideGroup">Απόκρυψη ομάδας</sys:String>
+    <sys:String x:Key="ContextMenuSave">Αποθήκευση λίστας αναπαραγωγής ως...</sys:String>
     <sys:String x:Key="ContextMenuDelete">Διαγραφή</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Διαγραφή όλων</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">Όνομα</sys:String>

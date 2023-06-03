@@ -78,6 +78,9 @@
     <sys:String x:Key="TabFavoritesString">Favoriti</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Dodaj/Ukloni favorit</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Ukloni favorit</sys:String>
+    <sys:String x:Key="ContextMenuAllGroups">Sve grupe</sys:String>
+    <sys:String x:Key="ContextMenuHideGroup">Sakrij grupu</sys:String>
+    <sys:String x:Key="ContextMenuSave">Sačuvaj plejlistu kao...</sys:String>
     <sys:String x:Key="ContextMenuDelete">Izbriši</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Izbrisati sve</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">Ime</sys:String>

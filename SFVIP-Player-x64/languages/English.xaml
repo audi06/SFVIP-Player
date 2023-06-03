@@ -78,6 +78,9 @@
     <sys:String x:Key="TabFavoritesString">Favorites</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Add/Remove favorite</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Remove favorite</sys:String>
+    <sys:String x:Key="ContextMenuAllGroups">All Groups</sys:String>
+    <sys:String x:Key="ContextMenuHideGroup">Hide Group</sys:String>
+    <sys:String x:Key="ContextMenuSave">Save playlist as...</sys:String>
     <sys:String x:Key="ContextMenuDelete">Delete</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Delete all</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">Name</sys:String>

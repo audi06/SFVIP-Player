@@ -78,6 +78,9 @@
     <sys:String x:Key="TabFavoritesString">Favoris</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Ajouter/Enlever favoris</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Enlever favoris</sys:String>
+    <sys:String x:Key="ContextMenuAllGroups">Tous les groupes</sys:String>
+    <sys:String x:Key="ContextMenuHideGroup">Masquer le groupe</sys:String>
+    <sys:String x:Key="ContextMenuSave">Enregistrer la liste de lecture...</sys:String>
     <sys:String x:Key="ContextMenuDelete">Supprimer</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Supprimer tout</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">Nom</sys:String>

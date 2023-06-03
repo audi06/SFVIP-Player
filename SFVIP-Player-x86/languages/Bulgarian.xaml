@@ -78,6 +78,9 @@
     <sys:String x:Key="TabFavoritesString">Фаворити</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Добавяне/премахване на любими</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Премахване на любимите</sys:String>
+    <sys:String x:Key="ContextMenuAllGroups">Всички групи</sys:String>
+    <sys:String x:Key="ContextMenuHideGroup">Скриване на групата</sys:String>
+    <sys:String x:Key="ContextMenuSave">Запазване на плейлиста като...</sys:String>
     <sys:String x:Key="ContextMenuDelete">Изтриване</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Изтриване на всичко</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">Име</sys:String>

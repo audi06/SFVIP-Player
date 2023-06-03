@@ -78,6 +78,9 @@
     <sys:String x:Key="TabFavoritesString">Избранное</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Добавить/удалить избранные каналы</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Удалить избранное</sys:String>
+    <sys:String x:Key="ContextMenuAllGroups">Все группы</sys:String>
+    <sys:String x:Key="ContextMenuHideGroup">Скрыть группу</sys:String>
+    <sys:String x:Key="ContextMenuSave">Сохранить плейлист как...</sys:String>
     <sys:String x:Key="ContextMenuDelete">Удалить</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Удалить все</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">Название</sys:String>

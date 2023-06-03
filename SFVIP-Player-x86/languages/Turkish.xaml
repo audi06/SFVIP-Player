@@ -78,6 +78,9 @@
     <sys:String x:Key="TabFavoritesString">Favoriler</sys:String>
     <sys:String x:Key="AddRemoveFavoriteToolTip">Favori ekle/kaldır</sys:String>
     <sys:String x:Key="RemoveFavoriteToolTip">Favoriyi kaldır</sys:String>
+    <sys:String x:Key="ContextMenuAllGroups">Tüm Gruplar</sys:String>
+    <sys:String x:Key="ContextMenuHideGroup">Grubu Gizle</sys:String>
+    <sys:String x:Key="ContextMenuSave">Oynatma listesini farklı kaydet...</sys:String>
 	<sys:String x:Key="ContextMenuDelete">Sil</sys:String>
     <sys:String x:Key="ContextMenuDeleteAll">Hepsini sil</sys:String>
     <sys:String x:Key="PlaylistColumnTitle">İsim</sys:String>
